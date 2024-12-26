@@ -79,19 +79,3 @@ Include the appropriate HTML structure for sections like header, hero, grid, and
 Adjust breakpoints and styles as needed to fit your content requirements.
 
 Recommendations
-
-Test the design on multiple devices to ensure responsiveness.
-
-Optimize images for web use to enhance performance.
-
-Use semantic HTML tags to improve accessibility and SEO.
-
-If expanding the project, consider modularizing the CSS using a preprocessor like SASS.
-
-License
-
-Feel free to use and modify this stylesheet for personal or commercial projects. Attribution is appreciated but not required.
-
-
-
-
