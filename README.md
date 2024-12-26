@@ -1,6 +1,5 @@
 Overview
 
-This CSS file is designed to style a responsive webpage with the following key sections:
 
 Header: A navigation bar with a logo and menu links.
 
